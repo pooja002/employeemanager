@@ -22,6 +22,13 @@ API - REST API
 <br/>
 
 
+### Deleting an Employee  (Deleted Angela Martin)
+
+![Screenshot (986)](https://user-images.githubusercontent.com/42808389/133420018-a306a82d-f2c1-4222-a53b-97fcb01e37d1.png)
+![Screenshot (987)](https://user-images.githubusercontent.com/42808389/133420036-966c8589-1146-475f-8b01-2670ffd7fdc1.png)
+<br/>
+<br/>
+
 ### Read Employees feature
 ![Screenshot (987)](https://user-images.githubusercontent.com/42808389/133420132-aba6e58e-a410-4939-a707-b322fbd31896.png)
 
@@ -33,9 +40,7 @@ API - REST API
 ![Screenshot (988)](https://user-images.githubusercontent.com/42808389/133419969-ca1ac3d7-e2f2-4474-b782-d433e24f18aa.png)
 
 
+<br/>
 
-### Deleting an Employee  (Deleted Angela Martin)
 
-![Screenshot (986)](https://user-images.githubusercontent.com/42808389/133420018-a306a82d-f2c1-4222-a53b-97fcb01e37d1.png)
-![Screenshot (987)](https://user-images.githubusercontent.com/42808389/133420036-966c8589-1146-475f-8b01-2670ffd7fdc1.png)
 
